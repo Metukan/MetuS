@@ -3,7 +3,9 @@ MetuS, Bir Discord botundan çok daha fazlası...
 
 Slash komutlar, anlaşılır yardım menüsü, yapay zekayla donatılmış sistemler... üstelik tamamen ücretsiz:?
 
-MetuS 2022 sonlarında beta olarak kullanıma açılmıştır. Botumuzun amacı kullanım kolaylığıyla beraber, sunucunuzu düzene sokmaktadır. Sadece birkaç komutla bütün ayarları sıfırlayabilir, kurabilir ve düzenleyebilirsiniz. Mesaj loglu ticket sistemimiz ile market sunucularına, yapay zeka abone sistemimizle youtuber sunucularına, server stat komutlarımız ile oyuncu sunucularına ve daha birçok sistemimizle 300+ sunucuya 7/24 hizmet vermekteyiz. 
+MetuS 2022 sonlarında beta olarak kullanıma açılmıştır. Botumuzun amacı kullanım kolaylığıyla beraber, sunucunuzu düzene sokmaktadır. Sadece birkaç komutla bütün ayarları sıfırlayabilir, kurabilir ve düzenleyebilirsiniz. 
+
+Mesaj loglu ticket sistemimiz ile market sunucularına, yapay zeka abone sistemimizle youtuber sunucularına, server stat komutlarımız ile oyuncu sunucularına ve daha birçok sistemimizle 300+ sunucuya 7/24 hizmet vermekteyiz. 
 
 Aşağıda botumuzda bulunan bazı özellikler bulunmaktadır;
 
