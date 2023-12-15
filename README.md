@@ -20,7 +20,9 @@ Yeni üyeleri karşılamanız için otorol, yapay zeka kayıt, dm karşılama, r
 
 
 Botu ekle: https://api.metehanstudio.xyz/ekle
+
 Destek sunucusu: https://discord.gg/medya
+
 Discord Bot List (Top.gg): https://top.gg/bot/1065965045906935808
 
 
