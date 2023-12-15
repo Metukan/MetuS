@@ -40,7 +40,7 @@ Destek sunucusu: https://discord.gg/medya
 
 Discord Bot List (Top.gg): https://top.gg/bot/1065965045906935808
 
-<a href="//https://www.dmca.com/Protection/Status.aspx?ID=de99eec1-aae1-4796-b6d4-ab07b20dbc21&refurl=https://github.com/Metukan/MetuS" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=de99eec1-aae1-4796-b6d4-ab07b20dbc21"  alt="DMCA.com Protection Status" /></a> 
+<a href="//https://www.dmca.com/Protection/Status.aspx?id=de99eec1-aae1-4796-b6d4-ab07b20dbc21&refurl=https://github.com/Metukan/MetuS" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=de99eec1-aae1-4796-b6d4-ab07b20dbc21"  alt="DMCA.com Protection Status" /></a> 
 
 ![metus](https://github.com/Metukan/MetuS/assets/119117608/17477f4a-a572-43de-b617-5017de48ec4a)
 ![fwqfqw](https://github.com/Metukan/MetuS/assets/119117608/578ea3ff-e383-4e4c-a127-5d857c1af580)
