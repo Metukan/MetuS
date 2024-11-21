@@ -5,7 +5,7 @@ Slash komutlar, anlaşılır yardım menüsü, yapay zekayla donatılmış siste
 
 MetuS 2022 sonlarında beta olarak kullanıma açılmıştır. Botumuzun amacı kullanım kolaylığıyla beraber, sunucunuzu düzene sokmaktadır. Sadece birkaç komutla bütün ayarları sıfırlayabilir, kurabilir ve düzenleyebilirsiniz. 
 
-Mesaj loglu ticket sistemimiz ile market sunucularına, yapay zeka abone sistemimizle youtuber sunucularına, server stat komutlarımız ile oyuncu sunucularına ve daha birçok sistemimizle 300+ sunucuya 7/24 hizmet vermekteyiz. 
+Mesaj loglu ticket sistemimiz ile market sunucularına, yapay zeka abone sistemimizle youtuber sunucularına, server stat komutlarımız ile oyuncu sunucularına ve daha birçok sistemimizle 1200+ sunucuya 7/24 hizmet vermekteyiz. 
 
 Aşağıda botumuzda bulunan bazı özellikler bulunmaktadır;
 
@@ -34,7 +34,7 @@ Yapay zeka sohbet, yapay zeka resim çizdirme, anlık dolar,euro,btc bilgi, depr
 Yeni üyeleri karşılamanız için otorol, yapay zeka kayıt, dm karşılama, resimli karşılama, embed karşılama, oto tag sistemleri
 
 
-Botu ekle: https://api.metehanstudio.xyz/ekle
+Botu ekle: https://metehanstudio.com/ekle
 
 Destek sunucusu: https://discord.gg/medya
 
